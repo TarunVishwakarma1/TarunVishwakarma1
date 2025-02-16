@@ -9,8 +9,8 @@
 🖥️ **Languages:** Java, JavaScript, TypeScript, SQL  
 🛠 **Frameworks:** Spring Boot, React, Next.js, Express.js  
 📦 **DevOps:** Docker, Kubernetes, GitHub Actions  
-☁️ **Cloud:** AWS (EC2, S3, Lambda), Firebase  
-📡 **Messaging:** Kafka, RabbitMQ  
+☁️ **Cloud:** AWS (EC2, S3, Lambda)
+📡 **Messaging:** Kafka  
 
 ## 🚀 Featured Projects  
 🔐 **W-Link Key Generator** – Blockchain wallet key encryption for Solana & Ethereum  
