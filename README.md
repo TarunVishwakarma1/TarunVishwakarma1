@@ -1,19 +1,26 @@
-# Hi, I'm Tarun Vishwakarma! 👋
+# 🚀 Hi, I'm Tarun Vishwakarma! 👋  
 
-👨‍💻 Full-Stack Software Developer
-🌍 Location: Noida, India
-💼 Experienced in full-stack development with a focus on JavaScript, TypeScript, and Docker.
-🔗 Leetcode: leetcode.com/u/tarunvishwakarma
-📧 Reach me on LinkedIn
+👨‍💻 **Full-Stack Software Engineer**  
+📍 **Noida, India**  
+💼 **Specializing in Java, Spring Boot, React, Next.js & Microservices**  
+🔧 **Optimizing apps for performance, scalability & security**  
 
-🔧 Technologies & Tools
+## ⚡ Tech Stack  
+🖥️ **Languages:** Java, JavaScript, TypeScript, SQL  
+🛠 **Frameworks:** Spring Boot, React, Next.js, Express.js  
+📦 **DevOps:** Docker, Kubernetes, GitHub Actions  
+☁️ **Cloud:** AWS (EC2, S3, Lambda), Firebase  
+📡 **Messaging:** Kafka, RabbitMQ  
 
-JavaScript, TypeScript
-Docker, API development
-Web3, Cryptography
-💡 Featured Projects
+## 🚀 Featured Projects  
+🔐 **W-Link Key Generator** – Blockchain wallet key encryption for Solana & Ethereum  
+📊 **DataViz Dashboard** – Custom data visualization platform with secure authentication  
 
-WLink: A wallet generation tool for Solana and Ethereum.
-Foodies: A recipe management app using JavaScript.
+## 🔗 Connect with Me  
+💻 **GitHub:** [TarunVishwakarma1](https://github.com/TarunVishwakarma1)  
+🔗 **LeetCode:** [Tarun Vishwakarma](https://leetcode.com/u/tarunvishwakarma/)  
+💼 **LinkedIn:** [Tarun Vishwakarma](https://www.linkedin.com/in/tarun-vishwakarma-a97b021b2/)  
+📧 **Email:** tarunvishwakarma81@gmail.com  
+
 
 [![See my holopin profile](https://holopin.me/tarunvishwakarma1)](https://holopin.io/@tarunvishwakarma1)
