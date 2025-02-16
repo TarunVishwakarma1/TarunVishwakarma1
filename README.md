@@ -1,6 +1,6 @@
 # Hi, I'm Tarun Vishwakarma! 👋
 
-👨‍💻 Software Developer at Newgen Software Technologies
+👨‍💻 Full-Stack Software Developer
 🌍 Location: Noida, India
 💼 Experienced in full-stack development with a focus on JavaScript, TypeScript, and Docker.
 🔗 Leetcode: leetcode.com/u/tarunvishwakarma
