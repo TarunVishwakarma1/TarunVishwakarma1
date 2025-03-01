@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunVishwakarma1&layout=donut&theme=dark)
 
+![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TarunVishwakarma1&bg_color=000000&color=ffffff&line=ffffff&point=ff00d0&area=true&hide_border=true)
+
 ## 🏆 Holopin Badges
 
 [![See my holopin profile](https://holopin.me/tarunvishwakarma1)](https://holopin.io/@tarunvishwakarma1)
