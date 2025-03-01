@@ -13,6 +13,13 @@
 
 [![See my holopin profile](https://holopin.me/tarunvishwakarma1)](https://holopin.io/@tarunvishwakarma1)
 
+## Throphies
+
+![My Trophies](https://github-profile-trophy.vercel.app?username=TarunVishwakarma1&theme=darkhub)
+
+
+![quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## 🔗 Connect
 
 * **GitHub:** [TarunVishwakarma1](https://github.com/TarunVishwakarma1)
@@ -31,5 +38,9 @@
    - Custom data visualization platform with robust authentication and authorization.
    - Enables [mention key functionalities or user benefits, e.g., real-time data analysis, interactive charts].
    - [Link to project or demo if available]
+
+---
+
+![a](https://count.getloli.com/@TarunVishwakarma1?theme=ai-1)
 
 ---
