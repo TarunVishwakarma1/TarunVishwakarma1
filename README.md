@@ -4,7 +4,7 @@
 
 [![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunvishwakarma1&show_icons=true&theme=dark)](https://github.com/TarunVishwakarma1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunVishwakarma1&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunVishwakarma1&layout=donut&theme=dark)
 
 ## 🏆 Holopin Badges
 
