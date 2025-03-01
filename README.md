@@ -1,8 +1,17 @@
-# Hi, I'm Tarun Vishwakarma 👋
+# whoami
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Tarun+Vishwakarma+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;" alt="Name SVG" />
+</p>
+
+<p align="center">
+
+![Heart gif](./Heart%20Love%20GIF.gif)
+
+</p>
 
 ## 📈 GitHub Stats
 
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunvishwakarma1&show_icons=true&theme=dark)](https://github.com/TarunVishwakarma1)
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunVishwakarma1&show_icons=true&theme=dark)](https://github.com/TarunVishwakarma1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunVishwakarma1&layout=donut&theme=dark)
 
