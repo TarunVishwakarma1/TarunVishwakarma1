@@ -22,5 +22,6 @@
 💼 **LinkedIn:** [Tarun Vishwakarma](https://www.linkedin.com/in/tarun-vishwakarma-a97b021b2/)  
 📧 **Email:** tarunvishwakarma81@gmail.com  
 
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunvishwakarma1&show_icons=true&theme=dark)
 
 [![See my holopin profile](https://holopin.me/tarunvishwakarma1)](https://holopin.io/@tarunvishwakarma1)
