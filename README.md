@@ -1,4 +1,5 @@
-# 🚀 Hi, I'm Tarun Vishwakarma! 👋  
+# whoami
+# Tarun Vishwakarma
 
 👨‍💻 **Full-Stack Software Engineer**  
 📍 **Noida, India**  
