@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Tarun+Vishwakarma+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;" alt="Name SVG" />
 </p>
 
-## CV
-![Tarun's CV](https://cv.tarunvishwakarma.site)
+## My CV
+[Tarun's CV](https://cv.tarunvishwakarma.site)
 
 ## 📈 GitHub Stats
 
