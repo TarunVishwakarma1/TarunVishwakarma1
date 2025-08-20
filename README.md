@@ -4,7 +4,7 @@
 </p>
 
 ## My CV
-[Tarun's CV](https://cv.tarunvishwakarma.site)
+[Tarun's CV](https://tarunvishwakarmacv.vercel.app)
 
 ## 📈 GitHub Stats
 
