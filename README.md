@@ -4,7 +4,7 @@
 </p>
 
 ## My CV
-[Tarun's CV](https://tarunvishwakarmacv.vercel.app)
+[Tarun's Profile](https://tarunvishwakarma.dev)
 
 ## 📈 GitHub Stats
 
@@ -29,10 +29,19 @@
 
 * **GitHub:** [TarunVishwakarma1](https://github.com/TarunVishwakarma1)
 * **LeetCode:** [Tarun Vishwakarma](https://leetcode.com/u/tarunvishwakarma/)
-* **LinkedIn:** [Tarun Vishwakarma](https://www.linkedin.com/in/tarun-vishwakarma-a97b021b2/)
+* **LinkedIn:** [Tarun Vishwakarma](https://www.linkedin.com/in/tarunvishwakarma28/)
 * **Email:** tarunvishwakarma81@gmail.com
 
 ## 🌟 Featured Projects
+
+**Gormicx**
+  - ORM in go
+    
+**Rusticx**
+  - ORM in rust
+    
+**GoTorrent**
+  - Torrent in go
 
 **🔐 W-Link Key Generator:**
    - Secure blockchain wallet key encryption tool for Solana and Ethereum.
